@@ -34,7 +34,6 @@ function assignGrade(score){
         else {
             return 'F'
 }
-    console.log(assignGrade(82));
 
 
 
